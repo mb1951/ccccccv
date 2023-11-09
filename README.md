@@ -9,7 +9,7 @@
             </header>
             <main>
                 <nav>
-                <a href="#price">Продукція<img src=""</a>
+                <a href="#price">Продукція</a>
                 <a href="#price">Новинки</a>  
                 </nav>
                 <h1>eva beauty lab</h1>
